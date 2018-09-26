@@ -7,29 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7F4A10601D2DE61700CDF0C0 /* iw_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 7F4A105E1D2DE61700CDF0C0 /* iw_selected.png */; };
-		7F4A10611D2DE61700CDF0C0 /* iw_unselected.png in Resources */ = {isa = PBXBuildFile; fileRef = 7F4A105F1D2DE61700CDF0C0 /* iw_unselected.png */; };
 		7F8841841D2C9988008CB095 /* IWManagerVideosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F8841831D2C9988008CB095 /* IWManagerVideosViewController.swift */; };
-		7F8841861D2CAE1E008CB095 /* iw_playIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7F8841851D2CAE1E008CB095 /* iw_playIcon.png */; };
 		7FD17D8F1D2A2F5B00BA92D8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FD17D8E1D2A2F5B00BA92D8 /* AppDelegate.swift */; };
 		7FD17D911D2A2F5B00BA92D8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FD17D901D2A2F5B00BA92D8 /* ViewController.swift */; };
 		7FD17D941D2A2F5B00BA92D8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FD17D921D2A2F5B00BA92D8 /* Main.storyboard */; };
 		7FD17D961D2A2F5B00BA92D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7FD17D951D2A2F5B00BA92D8 /* Assets.xcassets */; };
 		7FD17D991D2A2F5B00BA92D8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FD17D971D2A2F5B00BA92D8 /* LaunchScreen.storyboard */; };
 		7FD17DA11D2A549700BA92D8 /* IWVideoRecordingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FD17DA01D2A549700BA92D8 /* IWVideoRecordingController.swift */; };
-		7FD17DA31D2A56CC00BA92D8 /* iw_back.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD17DA21D2A56CC00BA92D8 /* iw_back.png */; };
-		7FD17DA51D2A59DF00BA92D8 /* iw_cameraSide.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD17DA41D2A59DF00BA92D8 /* iw_cameraSide.png */; };
-		7FD17DA71D2A5B3D00BA92D8 /* iw_flashOn.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD17DA61D2A5B3D00BA92D8 /* iw_flashOn.png */; };
-		7FD17DA91D2A5B4400BA92D8 /* iw_flashOff.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD17DA81D2A5B4400BA92D8 /* iw_flashOff.png */; };
 		7FD971841D2B9CE40050007B /* IWVideoOperatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FD971831D2B9CE40050007B /* IWVideoOperatorView.swift */; };
 		7FD971861D2B9CF20050007B /* IWVideoOperatorView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7FD971851D2B9CF20050007B /* IWVideoOperatorView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7F4A105E1D2DE61700CDF0C0 /* iw_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iw_selected.png; sourceTree = "<group>"; };
-		7F4A105F1D2DE61700CDF0C0 /* iw_unselected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iw_unselected.png; sourceTree = "<group>"; };
 		7F8841831D2C9988008CB095 /* IWManagerVideosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IWManagerVideosViewController.swift; sourceTree = "<group>"; };
-		7F8841851D2CAE1E008CB095 /* iw_playIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iw_playIcon.png; sourceTree = "<group>"; };
 		7FD17D8B1D2A2F5B00BA92D8 /* VideoRecording.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VideoRecording.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FD17D8E1D2A2F5B00BA92D8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7FD17D901D2A2F5B00BA92D8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -38,10 +28,6 @@
 		7FD17D981D2A2F5B00BA92D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7FD17D9A1D2A2F5B00BA92D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7FD17DA01D2A549700BA92D8 /* IWVideoRecordingController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IWVideoRecordingController.swift; sourceTree = "<group>"; };
-		7FD17DA21D2A56CC00BA92D8 /* iw_back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iw_back.png; sourceTree = "<group>"; };
-		7FD17DA41D2A59DF00BA92D8 /* iw_cameraSide.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iw_cameraSide.png; sourceTree = "<group>"; };
-		7FD17DA61D2A5B3D00BA92D8 /* iw_flashOn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iw_flashOn.png; sourceTree = "<group>"; };
-		7FD17DA81D2A5B4400BA92D8 /* iw_flashOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iw_flashOff.png; sourceTree = "<group>"; };
 		7FD971831D2B9CE40050007B /* IWVideoOperatorView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IWVideoOperatorView.swift; sourceTree = "<group>"; };
 		7FD971851D2B9CF20050007B /* IWVideoOperatorView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = IWVideoOperatorView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -76,13 +62,6 @@
 		7FD17D8D1D2A2F5B00BA92D8 /* VideoRecording */ = {
 			isa = PBXGroup;
 			children = (
-				7F4A105E1D2DE61700CDF0C0 /* iw_selected.png */,
-				7F4A105F1D2DE61700CDF0C0 /* iw_unselected.png */,
-				7FD17DA21D2A56CC00BA92D8 /* iw_back.png */,
-				7FD17DA41D2A59DF00BA92D8 /* iw_cameraSide.png */,
-				7FD17DA61D2A5B3D00BA92D8 /* iw_flashOn.png */,
-				7FD17DA81D2A5B4400BA92D8 /* iw_flashOff.png */,
-				7F8841851D2CAE1E008CB095 /* iw_playIcon.png */,
 				7FD17D8E1D2A2F5B00BA92D8 /* AppDelegate.swift */,
 				7FD17D901D2A2F5B00BA92D8 /* ViewController.swift */,
 				7FD17DA01D2A549700BA92D8 /* IWVideoRecordingController.swift */,
@@ -124,12 +103,12 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
-				LastUpgradeCheck = 0730;
+				LastUpgradeCheck = 1000;
 				ORGANIZATIONNAME = iwhere;
 				TargetAttributes = {
 					7FD17D8A1D2A2F5B00BA92D8 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = 3S533JBCEY;
+						DevelopmentTeam = 2JRC22X456;
 					};
 				};
 			};
@@ -158,15 +137,8 @@
 			files = (
 				7FD17D991D2A2F5B00BA92D8 /* LaunchScreen.storyboard in Resources */,
 				7FD17D961D2A2F5B00BA92D8 /* Assets.xcassets in Resources */,
-				7FD17DA51D2A59DF00BA92D8 /* iw_cameraSide.png in Resources */,
 				7FD17D941D2A2F5B00BA92D8 /* Main.storyboard in Resources */,
-				7FD17DA31D2A56CC00BA92D8 /* iw_back.png in Resources */,
-				7F8841861D2CAE1E008CB095 /* iw_playIcon.png in Resources */,
-				7F4A10611D2DE61700CDF0C0 /* iw_unselected.png in Resources */,
-				7F4A10601D2DE61700CDF0C0 /* iw_selected.png in Resources */,
-				7FD17DA91D2A5B4400BA92D8 /* iw_flashOff.png in Resources */,
 				7FD971861D2B9CF20050007B /* IWVideoOperatorView.xib in Resources */,
-				7FD17DA71D2A5B3D00BA92D8 /* iw_flashOn.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -216,13 +188,23 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -244,7 +226,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -261,13 +243,23 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -283,9 +275,10 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -296,11 +289,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 2JRC22X456;
 				INFOPLIST_FILE = VideoRecording/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.iwhere.www.VideoRecording;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -310,11 +306,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 2JRC22X456;
 				INFOPLIST_FILE = VideoRecording/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.iwhere.www.VideoRecording;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
